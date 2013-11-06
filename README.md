@@ -1,4 +1,4 @@
-reactive
+Principles of Reactive Programming
 ========
 
-Principles of Reactive Programming 
+** École Polytechnique Fédérale de Lausanne
